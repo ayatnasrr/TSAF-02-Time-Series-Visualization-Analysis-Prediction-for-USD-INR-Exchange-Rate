@@ -1,0 +1,2 @@
+# TSAF-02-Time-Series-Visualization-Analysis-Prediction-for-USD-INR-Exchange-Rate
+This project explores and forecasts the USD to INR exchange rate using time series visualization and machine learning. It involves historical data analysis, correlation heatmaps, and a predictive model built with Decision Tree Regression to estimate future closing rates based on historical open, high, and low values.
